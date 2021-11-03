@@ -7,6 +7,9 @@
 
 .newsletter {
     color: grey;
+    border: thin solid #cfcfcf;
+    border-radius: 3px;
+    padding: 10px;
 }
 
 .newsletter button {
@@ -19,7 +22,7 @@
 }
 
 .newsletter input {
-    border: solid gray;
+    border: 1px solid #cfcfcf;
     margin-bottom: 4px;
     border-radius: 3px;
     display: block;
@@ -27,3 +30,10 @@
     height: 30px;
     box-sizing: border-box;
 }
+
+.newsletter h3 {
+margin-top: 0;
+
+
+}
+
