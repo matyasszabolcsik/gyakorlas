@@ -21,7 +21,7 @@
     height: 30px;
 }
 
-.newsletter input {
+.newsletter input#email {
     border: 1px solid #cfcfcf;
     margin-bottom: 4px;
     border-radius: 3px;
